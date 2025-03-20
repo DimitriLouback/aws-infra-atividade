@@ -15,8 +15,9 @@ Atividade para conexão de uma instância EC2 a partir de um SSH client.
 ![aws6](Atvd_images/aws6.png)
 ![aws7](Atvd_images/aws7.png)
 ![aws8](Atvd_images/aws8.png)
-- 
 ![aws9](Atvd_images/aws9.png)
+
+- Criando SG para o bd
 ![aws10](Atvd_images/aws10.png)
 ![aws11](Atvd_images/aws11.png)
 ![aws12](Atvd_images/aws12.png)
