@@ -20,6 +20,8 @@ Atividade para conexão de uma instância EC2 a partir de um SSH client.
 - Criando SG para o bd
 ![aws10](Atvd_images/aws10.png)
 ![aws11](Atvd_images/aws11.png)
+
+- Criação do banco de dados PostgresSQL
 ![aws12](Atvd_images/aws12.png)
 ![aws13](Atvd_images/aws13.png)
 ![aws14](Atvd_images/aws14.png)
