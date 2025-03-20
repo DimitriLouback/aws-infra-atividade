@@ -2,7 +2,9 @@
 
 Atividade para conexão de uma instância EC2 a partir de um SSH client.
 
+- Criação do key par:
 ![aws1](Atvd_images/aws1.png)
+
 ![aws2](Atvd_images/aws2.png)
 ![aws3](Atvd_images/aws3.png)
 ![aws4](Atvd_images/aws4.png)
